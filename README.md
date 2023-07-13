@@ -1,4 +1,4 @@
-<img align="centre" alt="coding" width="1020" src=![BigDataGIF](https://github.com/Rajnikant21/Rajnikant21/assets/101185727/7a85665e-c348-43a2-92a5-ca4a1bc4a691)
+<img align="centre" alt="coding" width="1020" src=![GIF](https://cdn.dribbble.com/users/5094323/screenshots/11184058/1.gif)
 >
 
 <h1 align="center">Welcome to Rajnikant Joshi's Github</h1>
