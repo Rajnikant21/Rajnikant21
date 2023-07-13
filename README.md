@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Shriram Finance Limited](https://www.shriramfinance.in/)
 
-- 🌱 I’m currently learning **Analysis with Excel, Python,Visualisation with Tableau, PowerBI, etc**
+- 🌱 I’m currently Looking for Roles where I can work with **Analysis with Excel, Python, Visualisation with Tableau, PowerBI, etc**
 
 - 👯 I’m looking to collaborate on [Streamlit App through Python and PyCharm](https://github.com/Rajnikant21/My_Pycharm_app)
 
@@ -15,15 +15,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajnikant21](https://github.com/Rajnikant21)
 
-- 📝 I regularly write articles on [https://medium.com/@rajnikantjoshi2101](https://medium.com/@rajnikantjoshi2101)
+- 📝 I regularly write (Please read and Leave Feedback) articles on [https://medium.com/@rajnikantjoshi2101](https://medium.com/@rajnikantjoshi2101)
 
-- 💬 Ask me about **Data analysis,Scorecards and Dashboards**
+- 💬 Ask me about **Visual Analytics, Data Manipulation, PowerBI, and Google Studio**
 
-- 📫 How to reach me **rajnikantjoshi2101@gmail.com**
+- 📫 How to reach me **rajnikantjoshi2101@gmail.com** or Just call me @ **9871162156**
 
 - 📄 Know about my experiences [https://github.com/Rajnikant21/My_Resume](https://github.com/Rajnikant21/My_Resume)
 
-- ⚡ Fun fact **Do you know what Differs me from The Superstar Rajnikant, He can Juggle a coin Like Pro, and I Juggle the Data like a Data Scientist.😃**
+- ⚡ Fun fact **Do you know what Differs me from The Superstar Rajnikant, He can Juggle a coin Like a Pro, and I Juggle the Data like a Data Scientist.😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
