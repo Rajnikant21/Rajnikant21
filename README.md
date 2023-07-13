@@ -1,4 +1,5 @@
-<img align="centre" alt="coding" width="1020" src="https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif">
+<img align="centre" alt="coding" width="1020" src=![BigDataGIF](https://github.com/Rajnikant21/Rajnikant21/assets/101185727/7a85665e-c348-43a2-92a5-ca4a1bc4a691)
+>
 
 <h1 align="center">Welcome to Rajnikant Joshi's Github</h1>
 <h3 align="center">A passionate aspiring Data Scientist from New Delhi, India</h3>
