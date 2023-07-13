@@ -1,4 +1,4 @@
-<img align="centre" alt="coding" width="1020" src=![GIF](https://cdn.dribbble.com/users/5094323/screenshots/11184058/1.gif)
+![GIF](https://cdn.dribbble.com/users/5094323/screenshots/11184058/1.gif)
 >
 
 <h1 align="center">Welcome to Rajnikant Joshi's Github</h1>
