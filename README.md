@@ -1,14 +1,14 @@
 ![GIF](https://cdn.dribbble.com/users/5094323/screenshots/11184058/1.gif)
 >
 
-<h1 align="center">Welcome to Rajnikant Joshi's Github</h1>
-<h3 align="center">A passionate aspiring Data Scientist from New Delhi, India</h3>
+<h1 align="center"> Welcome to Github of </h1>
+<h3 align="center"> "The Data Manipulator You are looking for" </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnikant21&label=Profile%20views&color=0e75b6&style=flat" alt="rajnikant21" /> </p>
 
 - 🔭 I’m currently working at [Shriram Finance Limited](https://www.shriramfinance.in/)
 
-- 🌱 I’m currently Looking for Roles where I can work with **Analysis with Excel, Python, Visualisation with Tableau, PowerBI, etc**
+- 🌱 I'm passionate about Roles where I can work with **Analysis with Excel, Visualisation with Tableau, PowerBI, etc, Data Modeling with SQL-SSMS & Azure Studio**
 
 - 👯 I’m looking to collaborate on [Streamlit App through Python and PyCharm](https://github.com/Rajnikant21/My_Pycharm_app)
 
